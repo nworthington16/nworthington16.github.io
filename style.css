@@ -1,3 +1,19 @@
+body {
+    background-color: #a7a7c6;
+    font-family: 'Amiko', monospace;
+
+    padding: 40px;
+    width: 50%;
+}
+
+a {
+    color: black;
+}
+
 h3 {
-    color: green;
+    font-size: 180%;
+}
+
+#content {
+    padding-left: 20px;
 }
