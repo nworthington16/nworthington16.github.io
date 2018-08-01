@@ -52,7 +52,7 @@ function draw() {
 	// textColor(color(255, 255, 255));
 	textAlign(CENTER);
 	fill(0, 0, 0);
-	text("TypeTest!", width/2, 40);
+	text("QuikType", width/2, 40);
 	line(5, 72, width - 5, 72);
 	// name
 	textSize(15);

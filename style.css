@@ -1,9 +1,9 @@
 body {
-    background-color: #a7a7c6;
+    background-color: #A4A4CF;
     font-family: 'Amiko', monospace;
 
     padding: 40px;
-    width: 50%;
+    width: 75%;
 }
 
 a {
@@ -11,9 +11,27 @@ a {
 }
 
 h3 {
-    font-size: 180%;
+    font-size: 220%;
+    color: #EEE;
 }
 
 #content {
-    padding-left: 20px;
+    padding-left: 30px;
+}
+
+.description {
+    margin: 5px;
+    padding: 0px;
+}
+
+.contact-info > p {
+    display: inline-block;
+    padding: 0px;
+    margin: 3px;
+    font-size: 125%;
+}
+
+.section-title {
+    font-size: 125%;
+    font-weight: bold;
 }
