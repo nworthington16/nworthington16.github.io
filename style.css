@@ -1,9 +1,18 @@
 body {
-    background-color: #A4A4CF;
+    /* background-color: #A4A4CF; */
+    background-color: #7EB3BF;
     font-family: 'Amiko', monospace;
 
     padding: 40px;
     width: 75%;
+}
+
+#header > * {
+    display: inline-block
+}
+
+.subheader {
+    font-size: 120%;
 }
 
 a {
@@ -12,7 +21,7 @@ a {
 
 h3 {
     font-size: 220%;
-    color: #EEE;
+    color: #F2F0CE;
     margin: 5px;
 }
 
@@ -21,7 +30,8 @@ h3 {
 }
 
 .description {
-    margin: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     padding: 0px;
 }
 
@@ -29,10 +39,11 @@ h3 {
     display: inline-block;
     padding: 0px;
     margin: 3px;
-    font-size: 125%;
+    /* font-size: 125%; */
 }
 
 .section-title {
     font-size: 125%;
     font-weight: bold;
+    color: #F2F0CE;
 }
