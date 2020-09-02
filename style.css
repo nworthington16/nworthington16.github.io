@@ -1,7 +1,10 @@
 body {
     /* background-color: #A4A4CF; */
-    background-color: #7EB3BF;
+    /* background-color: #7EB3BF; */
+    background-color: #5686bd;
     font-family: 'Amiko', monospace;
+
+    /* color: white; */
 
     padding: 40px;
     width: 75%;
@@ -21,7 +24,8 @@ a {
 
 h3 {
     font-size: 220%;
-    color: #F2F0CE;
+    /* color: #F2F0CE; */
+    color: #e0e0e0;
     margin: 5px;
 }
 
@@ -45,5 +49,6 @@ h3 {
 .section-title {
     font-size: 125%;
     font-weight: bold;
-    color: #F2F0CE;
+    /* color: #F2F0CE; */
+    color: #e0e0e0;
 }
